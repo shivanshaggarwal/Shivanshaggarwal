@@ -1,13 +1,4 @@
-## Hi there 👋
-
-<!--
-**shivanshaggarwal/Shivanshaggarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...# 💫 About Me:
+# 💫 About Me:
 MERN Stack Developer with 2+ years of experience in designing, developing, and optimizing scalable <br>web applications. Skilled in building REST APIs, high-performance backends, and interactive UIs using <br>JavaScript, Node.js, Express.js, React.js, and MongoDB. Experienced in SQL/PL-SQL, Redis, Kafka, and <br>AWS. Recognized at TCS as a 2-time Best Performer of the Quarter and awarded an onsite opportunity <br>as the youngest member in the project. Prior experience as MERN Developer & Trainer.
 
 
@@ -25,9 +16,3 @@ MERN Stack Developer with 2+ years of experience in designing, developing, and o
 [![](https://visitcount.itsvg.in/api?id=Shivanshaggarwal&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
